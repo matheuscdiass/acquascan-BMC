@@ -6,7 +6,7 @@
 | Mateus Fonseca | Backend, Controle de Versionamento, Banco de Dados, Desenvolvimento de Software, Integração de API | [LINKEDIN](https://www.linkedin.com/in/mateus-souza-fonseca/) |
 | Pedro Gabriel Oliveira | [PREENCHER] | [PREENCHER] |
 | Pedro Henrique Toraldo | Negócio e Pesquisa, Desenvolvimento de Software, Controle de Versionamento, Marketing, Análise de Dados| [PREENCHER] |
-| Matheus Dias | [PREENCHER] | [PREENCHER] |
+| Matheus Dias | Backend, Desenvolvimento de Software, Prototipagem, Design de Interface (UI/UX)  | [LINKEDIN](https://www.linkedin.com/in/matheus-candido-dias/) |
 | Renan Recordon | [PREENCHER] | [PREENCHER] |
 
 ## Orientação
