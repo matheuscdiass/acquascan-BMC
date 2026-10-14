@@ -1,4 +1,4 @@
-# Business Model Canvas · 3. Parceiros-Chave
+ 3. Parceiros-Chave
 
 ## Introdução
 
