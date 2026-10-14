@@ -4,7 +4,7 @@ Para que o **Acquascan** entregue sua proposta de valor focada no monitoramento 
 
 ## 1. Desenvolvimento e Manutenção Tecnológica
 * **Engenharia de Software e Aplicação Web:**
-  * Desenvolvimento, atualização e otimização contínua da plataforma web (utilizando tecnologias como HTML, CSS, JavaScript e Java)[cite: 4.2].
+  * Desenvolvimento, atualização e otimização contínua da plataforma web (utilizando tecnologias como HTML, CSS, JavaScript e Java).
   * Integração de interfaces gráficas e telas de gerenciamento (prototipadas em ferramentas como Figma).
 * **Gestão e Processamento de Dados:**
   * Consumo, integração e tratamento de APIs externas meteorológicas e hidrológicas.
